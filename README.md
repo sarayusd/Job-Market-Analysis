@@ -36,7 +36,7 @@ Docker Cluster Setup → Dataset Ingestion via Java HDFS Client → HDFS Storage
 
 ## Machine Learning
 
-- **Job Title Prediction** — TF-IDF + Random Forest classification; cross-validated with F1 scoring (best F1: 0.66 after hyperparameter tuning)
+- **Job Title Prediction** — TF-IDF + Random Forest classification; cross-validated with F1 scoring 
 - **Internship vs Full-Time Classification** — Logistic Regression on engineered features (skill count, summary length); cross-validated with AUC evaluation
 - **Skill-Based Job Clustering** — K-Means clustering with Silhouette-based tuning and PCA visualization for skill grouping
 
